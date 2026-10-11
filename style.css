@@ -1,0 +1,9 @@
+
+.profile-hero {
+  background: linear-gradient(135deg, #eef2f7 0%, #e0e7f1 100%);
+  border-bottom: 1px solid #dee2e6;
+}
+.profile-bio p {
+  line-height: 1.7;
+}
+
